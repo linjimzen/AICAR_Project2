@@ -1,4 +1,5 @@
 # **Traffic Sign Recognition** 
+(訓練資料可以此獲得)[https://github.com/v-thiennp12/Traffic-Sign-Recognition-with-Keras-Tensorflow/tree/main/traffic-signs-data]
 
 > 貢獻者: N96121147_林璟任
 ---
